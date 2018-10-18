@@ -1,0 +1,1 @@
+g++ test.cpp -o name -lGL -lGLU -lglut 
